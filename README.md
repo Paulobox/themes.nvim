@@ -30,7 +30,7 @@ return {
 	tag = "0.1.5",
 	cmd = "Telescope",
 	dependencies = {
-		"PauloGitbox/themes.nvim",
+		"Paulobox/themes.nvim",
 		"nvim-lua/plenary.nvim",
 	},
 	config = function()
